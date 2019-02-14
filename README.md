@@ -8,7 +8,7 @@
 
 I found the disparity between true randomness and percieved randomness between engineers and end users to be interesting. True random actually led to more coincidences between adjacent songs in a playlist, leading end users to believe that thier songs were not being played in a random order. Spotify engineers developed an algorithm that spaced out songs by at least 25% intervals to make their random algorithm **appear** more random to combat this.
 
-##Eisen's Rsponse
+## Eisen's Rsponse
 I think its interesting that sometimes people think its not random but it actaully is. True randomness can sometimes be "not random at all" if the song got shuffled twice even it's actually randomly generated. It is interesting how true randomness should be defined.
 
 ## Gambler's Fallacy [Ann's Thoughts]
