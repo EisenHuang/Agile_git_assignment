@@ -14,5 +14,3 @@ I think its interesting that sometimes people think its not random but it actaul
 ## Gambler's Fallacy [Ann's Thoughts]
 The article mentions Gambler's Fallacy as the main reason for the old random algorithm appearing non random. Gambler's Fallacy describes the human brain's tendency to expect something to happen again if it hasn't happened in a while. It is interesting because engineering power was spent on trying to defeat the tricks our brain plays on us. 
 
-## THIS IS EISEN HUANG AND I LIKE THIS ARTICLE 
-
